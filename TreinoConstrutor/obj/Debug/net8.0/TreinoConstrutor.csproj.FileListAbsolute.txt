@@ -1,0 +1,14 @@
+C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\bin\Debug\net8.0\TreinoConstrutor.exe
+C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\bin\Debug\net8.0\TreinoConstrutor.deps.json
+C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\bin\Debug\net8.0\TreinoConstrutor.runtimeconfig.json
+C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\bin\Debug\net8.0\TreinoConstrutor.dll
+C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\bin\Debug\net8.0\TreinoConstrutor.pdb
+C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\obj\Debug\net8.0\TreinoConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\obj\Debug\net8.0\TreinoConstrutor.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\obj\Debug\net8.0\TreinoConstrutor.AssemblyInfo.cs
+C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\obj\Debug\net8.0\TreinoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\obj\Debug\net8.0\TreinoConstrutor.dll
+C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\obj\Debug\net8.0\refint\TreinoConstrutor.dll
+C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\obj\Debug\net8.0\TreinoConstrutor.pdb
+C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\obj\Debug\net8.0\TreinoConstrutor.genruntimeconfig.cache
+C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\obj\Debug\net8.0\ref\TreinoConstrutor.dll
