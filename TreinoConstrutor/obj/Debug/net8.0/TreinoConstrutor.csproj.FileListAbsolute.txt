@@ -12,3 +12,4 @@ C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConst
 C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\obj\Debug\net8.0\TreinoConstrutor.pdb
 C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\obj\Debug\net8.0\TreinoConstrutor.genruntimeconfig.cache
 C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\obj\Debug\net8.0\ref\TreinoConstrutor.dll
+C:\Users\erick\Desktop\CursoC#e.NET8\TreinoIndivual\TreinoConstrutor\TreinoConstrutor\obj\Debug\net8.0\TreinoConstrutor.sourcelink.json
